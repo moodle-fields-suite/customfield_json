@@ -37,5 +37,5 @@ Main features
 Links
 -----
 
-* Source code and issues: https://github.com/moodle-by-kelsoncm/customfield_json
-* User profiles: the same editor for user profile fields is the `profilefield_json <https://github.com/moodle-by-kelsoncm/profilefield_json>`_ plugin.
+* Source code and issues: https://github.com/moodle-fields-suite/customfield_json
+* User profiles: the same editor for user profile fields is the `profilefield_json <https://github.com/moodle-fields-suite/profilefield_json>`_ plugin.
